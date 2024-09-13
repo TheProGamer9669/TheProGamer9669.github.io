@@ -1,0 +1,11 @@
+body {
+    background-color: #ff4800;
+    text-align: center;
+    margin-left: 425px;
+    margin-right: 425px;
+    margin-top: 50px;
+}
+body:hover {
+    pointer: wait;
+}
+
